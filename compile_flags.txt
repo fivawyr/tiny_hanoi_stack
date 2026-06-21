@@ -1,0 +1,4 @@
+-std=c++17
+-I/opt/homebrew/include/SDL2
+-I/opt/homebrew/include
+-D_THREAD_SAFE

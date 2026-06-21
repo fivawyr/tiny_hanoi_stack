@@ -12,5 +12,5 @@ g++ -std=c++17 -O2 -Wall -Wextra code.cpp -o tiny_hanoi -I/opt/homebrew/include 
 ![](ressources/screenshot.png)
 > Screenshot from the application 
 ### Ressources 
-[Wenyan Showcase projects](https://ide.wy-lang.org/?file=hanoi)
-[Wikipedia](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
+- [Wenyan Showcase projects](https://ide.wy-lang.org/?file=hanoi)
+- [Wikipedia](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
